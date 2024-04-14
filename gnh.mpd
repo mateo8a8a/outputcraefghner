@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <MPD xmlns="urn:mpeg:dash:schema:mpd:2011" profiles="urn:mpeg:dash:profile:isoff-live:2011" minBufferTime="PT2.00S" mediaPresentationDuration="PT1H43M59.999S" type="static">
-  <!-- Created with ivotv -->
+  <!-- Created with ghng -->
   <Period>
     <!-- Video -->
     <AdaptationSet mimeType="video/mp4" segmentAlignment="true" startWithSAP="1" maxWidth="1920" maxHeight="960">
